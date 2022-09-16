@@ -1,0 +1,20 @@
+* {
+    
+}
+nav {
+    font-family: 'Supermercado One', cursive;
+}
+.carousel {
+    background-color: black;
+    
+}
+.carousel-caption {
+    position: absolute;
+    bottom: 0%;
+    font-family: 'Marcellus', serif;
+}
+footer {
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Marcellus', serif;
+}
